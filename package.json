@@ -1,0 +1,19 @@
+{
+  "name": "@m-britvina/ajs",
+  "version": "1.0.0",
+  "description": "Библиотека для браузера и NodeJS",
+  "homepage": "https://github.com/M-Britvina/ajs#readme",
+  "bugs": {
+    "url": "https://github.com/M-Britvina/ajs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M-Britvina/ajs.git"
+  },
+  "license": "ISC",
+  "author": "M-Britvina",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
